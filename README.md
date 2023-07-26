@@ -38,9 +38,9 @@
                     style="max-width:100%;">
             </a>
             <a href="https://www.linkedin.com/in/pratham-sharma-9a15271b7/" ref="nofollow">
-                <img src="https://camo.githubusercontent.com/b6971a4af903a7270ef9d19766473b9b42b00c182539218959c2e80657da63d1/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d4c696e6b6564696e267374796c653d666f722d7468652d62616467652675726c3d68747470732533412532462532466c696e6b6564696e2e636f6d"
-                    alt="linkedin"
-                    data-canonical-src="https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com"
+               <img align="left" alt width="22px"
+                    src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667"
+                    data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
                     style="max-width:100%;">
             </a>
             <br>
