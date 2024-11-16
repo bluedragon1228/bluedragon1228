@@ -1,5 +1,5 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-🔭 Hello! I’m a full-stack developer with a Bachelor of Science in Computer Science from the University of the Andes in Bogotá, Colombia. With a solid foundation in both front-end and back-end technologies, I specialize in creating dynamic, user-friendly web applications that meet diverse client needs.
+🔭 Hello! I’m a full-stack developer with a Bachelor of Science in Computer Science. With a solid foundation in both front-end and back-end technologies, I specialize in creating dynamic, user-friendly web applications that meet diverse client needs.
 
 My expertise includes:
 
